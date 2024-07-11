@@ -17,6 +17,8 @@ Our team has chosen to focus on the theme of “Singapore Attractions.” Singap
 
 **Claudio Tan Keng Hee**: Marina Bay Sands (claudioindex.html)
 
+---
+
 # Bernice Tan Front-End Development Project (Inspired by Jewel Changi Airport Website)
 ## 前端开发项目（灵感来自星耀樟宜机场网站）
 
